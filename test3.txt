@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+thisi is muni syam
+=======
 hi this is muni syam
+>>>>>>> origin/master
